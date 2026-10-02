@@ -16,6 +16,18 @@ This repository gives an overview of designing an Automated Parking Ticketing ba
 - Save and load data between runs
 - Payment history and CSV report export
 
+  ## 📸 Application Screenshot
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-52-31" src="https://github.com/user-attachments/assets/6d6dde47-bbbf-4424-abda-73097d3be28a" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-52-11" src="https://github.com/user-attachments/assets/5cd51fbd-b322-4727-bb63-179eab30b0f1" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-51-59" src="https://github.com/user-attachments/assets/278b442e-ffbd-4ac1-a04e-994bfd1bec4d" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-51-45" src="https://github.com/user-attachments/assets/d2c49e45-51be-4716-a9be-dfc39be5ce17" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-51-39" src="https://github.com/user-attachments/assets/c02247e4-ce27-439b-9b2e-4f09bcc4b315" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-51-20" src="https://github.com/user-attachments/assets/93387b2e-8188-45f7-a4e4-5c2455dfe99d" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-51-08" src="https://github.com/user-attachments/assets/c35d5e9d-fc5e-4f6e-889f-33865a05f741" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-50-50" src="https://github.com/user-attachments/assets/bb26a9c9-b06f-4b19-bc76-d0847b0deb1d" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-50-05" src="https://github.com/user-attachments/assets/1059888d-efa2-49d9-8cb2-0490df14e0cd" />
+<img width="1102" height="946" alt="Screenshot From 2026-10-02 22-49-56" src="https://github.com/user-attachments/assets/f22ebce7-8abd-457c-8467-83354156e6af" />
+
 ## How to run
 ```bash
 git clone https://github.com/shashidharreddymaneti-web/Parking-Management-System.git
